@@ -3,7 +3,7 @@
 - Unsupervised Learning.
 - Python
 - Jupyter Notebook
-## project overview
+## Project overview
 In this project we used the   unsupervised learning is used for, how to process data, how to cluster, how to reduce  dimensions, and how to reduce the principal components using PCA. We used the   all these skills to create an analysis for our clients who are preparing to get into the cryptocurrency market.
 Accountability Accounting, a prominent investment bank,  it is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however,  lost in the vast universe of cryptocurrencies. So, they’ve asked us to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 The data we are working on is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what we are looking for, we  decided to use unsupervised learning. To group the cryptocurrencies, we decided on a clustering algorithm.  we used data visualizations to share  findings.
